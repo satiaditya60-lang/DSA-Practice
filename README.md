@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
