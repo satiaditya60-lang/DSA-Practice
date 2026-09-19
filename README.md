@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1089-duplicate-zeros/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
