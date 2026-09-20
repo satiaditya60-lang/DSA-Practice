@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0541-reverse-string-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0709-to-lower-case/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
