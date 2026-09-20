@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1089-duplicate-zeros/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0541-reverse-string-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
