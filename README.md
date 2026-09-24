@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0771-jewels-and-stones](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
