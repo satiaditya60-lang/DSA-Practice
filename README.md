@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/0771-jewels-and-stones/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/satiaditya60-lang/DSA-Practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
